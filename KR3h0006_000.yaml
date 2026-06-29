@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3h0006/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部八
+  hash: sha256:ed7b890dbd4c5a48db16c46d7fbf2f236332a20a938d6348e5c3606dd689b6ba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3h0006_WYG_000-1a, image: WYG0812/WYG0812-0037a.png}
+body:
+  text: 書斷藝術類一書畫之屬提要臣等謹案書斷三卷唐張懷瓘撰是書唐書藝文志著録稱懷瓘於開元中為翰林供奉竇蒙述書賦注則云懷瓘海寧人鄂州司馬與志不同然述書賦張懷瓌條下又注云懷瓌懷瓘弟盛王府司馬兄弟並翰林待詔則與志相合蓋嘗為鄂州司馬終於翰林供奉二書各舉其一官爾所録皆古今書體及能書人名上卷列古文大篆籀文小篆八分𨽻書章草行書飛白草書十體各述其源流繫之以贊末為總論一篇中卷下卷分神妙能三品每品各以體分凡神品二十五人除各體重復得十二人妙品九十八人除各體重復得三十九人能品一百七人除各體重復得三十五人前列姓名後為小𫝊𫝊中附録又三十八人其紀述頗詳評論亦允張彥逺法書要録全載其文蓋當代以為精鑒矣乾隆四十六年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:319ddfb014149ac9b413267f3dfddd6e1c4441c8e7749905433c06eb9354fed2
+metadata:
+  title: 書斷
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:13:41.005421'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3h0006/KR3h0006_000.txt
+hash: sha256:c27df327e0c29afc4813f33cd422bb6be897981ad5b96008b2379ddcabe1ec0f
